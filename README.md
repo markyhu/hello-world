@@ -1,4 +1,4 @@
-# learning python
+# learning data structure with python
 ## data structure in python
 1.List, string and tuples are ordered collection. Set and dictionary are unordered collection.
 
@@ -14,3 +14,10 @@
 1.List indexing and assigning to an index position are independent of the size of the list.(O(1))
 2.Using append to grow a list:O(1), using concatenation operator:O(k)
 
+## Data structure
+
+### Stack
+1.Stack is LIFO(last in first out).
+
+### Queue
+1.Queue is FIFO(first in first out).
